@@ -1,6 +1,10 @@
 Autohotkey Version 1.1.133.10
 
-kbmouse v1
+kbmouse v3
+
+- This Script is mainly used for the ease of use
+when coding with the right hand in the typing position
+
 
 1. Open run with "windows key" + "r"
 2. Type "shell:startup"
@@ -11,12 +15,17 @@ kbmouse v1
 
 Usage:
 
-1. Use combination keys of (esc) + Arrow Keys to move cursor
-2. Use combination keys of (esc) + Page Up to Left Click once
-3. Use combination keys of (esc) + Page Down to Right Click once
+1. Use combination keys of (esc) + o, l, k, ; to move cursor
+2. Use combination keys of (esc) + i to Left Click once
+3. Use combination keys of (esc) + p to Right Click once
 
-4. Use combination keys of (`) + Arrow Up to Scroll Up
-5. Use combination keys of (`) + Arrow Down to Scroll Down
+4. Use combination keys of (LAlt) + e to Scroll Up
+5. Use combination keys of (LAlt) + d to Scroll Down
 
-script by Mr. Shimmer for kbmouse v1
+9. Use combination keys of (LAlt) + o to click arrow up once
+10. Use combination keys of (LAlt) + l to click arrow down once
+11. Use combination keys of (LAlt) + k to click arrow left once
+12. Use combination keys of (LAlt) + ; to click arrow right once
+
+script and guide by Mr. Shimmer for kbmouse v3
 December 2021
