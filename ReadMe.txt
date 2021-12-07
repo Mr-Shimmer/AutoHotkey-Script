@@ -19,8 +19,8 @@ Usage:
 2. Use combination keys of (esc) + i to Left Click once
 3. Use combination keys of (esc) + p to Right Click once
 
-4. Use combination keys of (LAlt) + e to Scroll Up
-5. Use combination keys of (LAlt) + d to Scroll Down
+4. Use combination keys of (RAlt) + e to Scroll Up
+5. Use combination keys of (RAlt) + d to Scroll Down
 
 9. Use combination keys of (LAlt) + o to click arrow up once
 10. Use combination keys of (LAlt) + l to click arrow down once
