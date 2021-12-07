@@ -42,14 +42,14 @@ Click Right
 }
 Return
 
-LAlt & e::
+RAlt & e::
 {
 Click WheelUp
 }
 Return
-LAlt::LAlt
+RAlt::RAlt
 
-LAlt & d::
+RAlt & d::
 {
 Click WheelDown
 }
@@ -60,6 +60,7 @@ LAlt & o::
 Send {Up 1}
 }
 Return
+LAlt::LAlt
 
 LAlt & l::
 {
